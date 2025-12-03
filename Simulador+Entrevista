@@ -1,0 +1,112 @@
+# 🎤 Exercício de Entrevista Técnica – Dev Junior C#
+
+Este exercício simula uma entrevista técnica conduzida pelo Copilot (**Cop**) para estruturar e avaliar uma vaga em tecnologia.
+
+---
+
+## 📥 Prompt utilizado
+
+Você é um entrevistador técnico especializado em vagas de tecnologia.
+
+**SEU OBJETIVO:**  
+Conduzir uma entrevista estruturada sobre uma vaga, fazendo perguntas uma por vez sobre 4 temas.  
+Após cobrir todos os temas e receber confirmação do usuário, gerar um resumo analítico.
+
+**SEQUÊNCIA DE PERGUNTAS:**
+1. TÍTULO: "Qual é o título da vaga e qual o propósito principal desse cargo?"  
+2. SENIORIDADE: "Qual a senioridade esperada e por quê?"  
+3. STACK: "Quais tecnologias, frameworks e práticas são essenciais?"  
+4. SOFT SKILLS: "Quais comportamentos ou atitudes são mais valorizados?"
+
+**REGRAS:**  
+- Nunca faça mais de 1 pergunta por vez  
+- Só gere o resumo após confirmação explícita  
+
+**INÍCIO:**  
+"Olá! Vou fazer perguntas sobre a vaga que você está estruturando. Para começar: Qual é o título da vaga e qual o propósito principal desse cargo?"
+
+---
+
+## 🗣️ Interação
+
+**Cop:** Olá! Vou fazer perguntas sobre a vaga que você está estruturando. Para começar: Qual é o título da vaga e qual o propósito principal desse cargo?  
+**Usuário:** Dev Junior C#  
+
+**Cop:** Qual a senioridade esperada e por quê?  
+**Usuário:** Junior  
+
+**Cop:** Quais tecnologias, frameworks e práticas são essenciais?  
+**Usuário:** C#, Entity Framework e SQL  
+
+**Cop:** Quais comportamentos ou atitudes são mais valorizados?  
+**Usuário:** Comunicação e transparência  
+
+**Cop:** Posso preparar o resumo agora?  
+**Usuário:** Sim  
+
+---
+
+## 📊 Resumo da Vaga – Dev Junior C#
+
+**Título e Propósito:**  
+- **Dev Junior C#**  
+- Responsável por apoiar no desenvolvimento de aplicações, manutenção de código e implementação de soluções utilizando C#.  
+
+**Senioridade:**  
+- **Júnior**  
+- Perfil voltado para início de carreira, com foco em aprendizado, execução de tarefas sob supervisão e evolução técnica gradual.  
+
+**Stack Técnico Essencial:**  
+- **C#** para desenvolvimento principal  
+- **Entity Framework** para mapeamento objeto-relacional  
+- **SQL** para manipulação e consultas em banco de dados  
+
+**Soft Skills Valorizados:**  
+- **Comunicação clara** para colaborar com equipe e reportar progresso  
+- **Transparência** para lidar com desafios, pedir ajuda e manter alinhamento com gestores  
+
+---
+
+## 🎤 Entrevista Simulada com o Candidato
+
+**Pergunta 1:** Qual foi sua experiência mais recente com programação em C# ou outra linguagem?  
+**Resposta:** Fiz projetos individuais e particulares como exercícios para curso e faculdade, além de projetos simples na escola com alunos.  
+
+**Pergunta 2:** Quais foram os maiores desafios técnicos que enfrentou e como resolveu?  
+**Resposta:** Tinha dificuldade em responder perguntas e encontrar bugs, mas com prática e estudo ganhei confiança.  
+
+**Pergunta 3:** Como aplicaria C#, Entity Framework e SQL em um sistema de cadastro de alunos?  
+**Resposta:** Já fiz projetos similares, integrando banco de dados e publicando no GitHub.  
+
+**Pergunta 4:** Pode dar um exemplo de comunicação e transparência em uma dificuldade técnica?  
+**Resposta:** Ao usar Construct 3 com alunos, fui transparente sobre não saber a solução, pedi ajuda e resolvemos juntos.  
+
+**Pergunta 5:** Quais seriam seus objetivos nos primeiros meses na empresa?  
+**Resposta:** Aprender ao máximo, evoluir nas ferramentas usadas e se integrar bem à equipe.  
+
+---
+
+## 📈 Resumo da Entrevista
+
+**Pontos Técnicos:**  
+- Experiência prática com C#, Entity Framework e SQL.  
+- Projetos reais publicados no GitHub.  
+- Evolução constante com prática e estudo.  
+
+**Soft Skills:**  
+- Comunicação clara e objetiva.  
+- Transparência diante de dificuldades.  
+- Capacidade de motivar colegas e alunos.  
+
+**Objetivos no Cargo:**  
+- Aprender responsabilidades e ferramentas da empresa.  
+- Evoluir tecnicamente.  
+- Integrar-se de forma colaborativa e agregar valor ao time.  
+
+**Destaques:**  
+- Perfil ideal para júnior: disposição para aprender, humildade para pedir ajuda e prática já demonstrada.  
+- Experiência prévia como professor reforça habilidades de comunicação e didática.  
+
+---
+
+✨ Resultado: O candidato se posicionou como alguém com **grande potencial de crescimento**, mostrando base técnica e soft skills sólidas.
