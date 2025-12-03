@@ -1,0 +1,72 @@
+# 🚀 Exercício de Prompt – Roadmap Personalizado de Carreira em Tecnologia
+
+Este repositório contém a **Fase 2** do exercício prático de entrevista conduzida pelo Copilot (apelidado de **Cop**).  
+Aqui o agente atua como **planejador especializado em criar roadmaps personalizados de carreira em tecnologia**, recebendo os dados da Fase 1 e montando um plano completo.
+
+---
+
+## 📥 Dados recebidos do Agent 1
+
+- **CARREIRA_ESCOLHIDA:** Desenvolvedor Web Full Stack  
+- **HORAS_SEMANA:** 18 horas  
+- **EXPERIENCIA:** Zero  
+- **OBJETIVO:** Transição de carreira  
+- **PREFERENCIA:** Código  
+- **INTERESSES:** Desenvolvimento Web e Inteligência Artificial  
+- **EXPERIÊNCIA PRÉVIA:** Professor de inglês  
+
+---
+
+## 🧩 VISÃO DO DIA A DIA
+
+Como é o trabalho de um(a) Desenvolvedor Web Full Stack:
+
+- Criar interfaces web responsivas (frontend)  
+- Desenvolver APIs e lógica de negócios (backend)  
+- Integrar banco de dados com aplicações  
+- Testar e corrigir bugs em sistemas  
+- Colaborar com equipes de design e produto  
+
+---
+
+## 🧠 MAPA DE SKILLS
+
+**CORE SKILLS (essenciais):**
+- HTML, CSS e JavaScript  
+- Lógica de programação e algoritmos  
+- Frameworks modernos (React, Node.js)  
+
+**NICE-TO-HAVE (complementares):**
+- Git/GitHub (versionamento)  
+- Noções de UX/UI  
+
+**FERRAMENTAS E TECNOLOGIAS:**
+- React.js  
+- Node.js + Express  
+- MongoDB ou PostgreSQL  
+
+---
+
+## 📅 ROADMAP DE 90 DIAS
+
+**ADAPTADO PARA: 18 horas/semana**
+
+### MÊS 1 – FUNDAMENTOS
+**SEMANA 1-2:**
+- Aprender HTML e CSS (estrutura e estilo)  
+- Criar páginas simples responsivas  
+
+**SEMANA 3-4:**
+- Introdução ao JavaScript (variáveis, funções, DOM)  
+- Pequenos projetos: calculadora, lista de tarefas  
+
+---
+
+### MÊS 2 – PRÁTICA
+**SEMANA 5-6:**
+- Aprender React (componentes, props, estado)  
+- Criar um app de notas simples  
+
+**SEMANA 7-8:**
+- Backend com Node.js + Express  
+- Criar API REST
